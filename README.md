@@ -1,2 +1,2 @@
 # University Projects
-Projects for my Bachelor's and Master's degrees
+University projects from my Bachelor's and Master's degrees
